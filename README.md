@@ -15,7 +15,7 @@ Make a directory in #mkdir <b>/home/your-user/.config/i3status</b> for files con
 # i3wm first configuration
 
 In terminal line linux run:
-#i3 
+~#i3 
 Wait for automatic config for i3
 He generates the files on right places
 
