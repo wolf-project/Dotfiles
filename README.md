@@ -1,3 +1,1 @@
-teste
 # Dotfiles
-Eaí
