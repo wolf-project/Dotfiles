@@ -1,26 +1,26 @@
-<<<<<<< HEAD
-# Dotfiles
-=======
-# My personal Dotfiles
+# i3wm files
 
-# i3wm config
+In this repository have files that I use to configure the i3 Window Manager.
 
-in terminal line linux run:
-<b>#pacman -S i3 i3bar dmenu i3status</b>
-Make a directory in #mkdir <b>/home/your-user/.config/i3/config or #mkdir /root/.config/i3</b> for config to <strong>i3 Window manager</strong>
-Make a directory in for archives "config and i3status.conf" #mkdir <b>/home/your-user/i3status/config and #mkdir /home/your-user/i3status/i3status.conf</b>
+Have config file to status bar too.
 
-#i3status
+Author
+	Victor Consuegra  wolfsecurity@protonmail.com
+   	Facebook www.facebook.com/ConsuegraVictor
 
-in terminal line linux run:
-Make a directory in #mkdir <b>/home/your-user/.config/i3status</b> for files config and i3status.conf
+# Download with Wget
 
-# i3wm first configuration
+	$ wget https://github.com/wolf-project/Dotfiles.git
+	$ unzip Dotfiles-master.zip
+		Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 
-In terminal line linux run:
-~#i3 
-Wait for automatic config for i3
-He generates the files on right places
+# Dependency
 
+You just need install the complete group of i3wm, like i3lock, i3bar, i3status, dmenu...
 
->>>>>>> 4c52ccc7482a3fdf69043f0805060a8b64de5273
+    Arch Linux: # pacman -S i3 dmenu i3lock i3bar i3status
+
+# Got a problem ? 
+
+	Please, submit a issue!
+
