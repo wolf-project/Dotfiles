@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dotfiles
 =======
 # My personal Dotfiles
@@ -21,6 +20,3 @@ In terminal line linux run:
 ~#i3 
 Wait for automatic config for i3
 He generates the files on right places
-
-
->>>>>>> 4c52ccc7482a3fdf69043f0805060a8b64de5273
