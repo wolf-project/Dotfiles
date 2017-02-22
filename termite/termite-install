@@ -1,0 +1,10 @@
+# Termite config # 
+
+In terminal line:
+	
+		# pacman -S termite
+
+# Make a directorie in /home/your-user/.config/termite or /root/.config/termite
+	Move the " config " to /termite/
+
+	Reload your i3wm and enjooy ! 
