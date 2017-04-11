@@ -1,14 +1,6 @@
-<pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true">
-_____   ____ _______ ______ _____ _      ______  _____ 
-|  __ \ / __ \__   __|  ____|_   _| |    |  ____|/ ____|
-| |  | | |  | | | |  | |__    | | | |    | |__  | (___  
-| |  | | |  | | | |  |  __|   | | | |    |  __|  \___ \ 
-| |__| | |__| | | |  | |     _| |_| |____| |____ ____) |
-|_____/ \____/  |_|  |_|    |_____|______|______|_____/  </pre>
+<pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true"> </pre>
 
-| ------------------------------------------------------------------------------------------ |
-
-# My Arch Linux Dotfiles
+# My Arch Linux Dotfiles - i3WM + i3blocks
 
 ![I3][screenshot1]
 
