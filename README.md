@@ -9,7 +9,6 @@
 # My Arch Linux Dotfiles
 
 ![I3][screenshot1]
-[screenshot1]:https://raw.githubusercontent.com/wolf-project/Dotfiles/master/screenshots/screenshootrefresh.png
 
 > For more [screenshots](https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
 
@@ -30,3 +29,5 @@ Author
 # Got a problem ? 
 
 	Please, submit a issue !
+| ---------------------------------------------------- |
+[screenshot1]:(https://raw.githubusercontent.com/wolf-project/Dotfiles/master/screenshots/screenshootrefresh.png)
