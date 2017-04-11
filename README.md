@@ -1,17 +1,18 @@
 <pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true"> </pre>
-
 # My Arch Linux Dotfiles - i3WM + i3blocks
 
 ![I3][screenshot1]
 
 [screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshootrefresh.png
 
-## For more screenshots go to 
+# For more screenshots go to 
 
 [screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots
 
 Author Victor Consuegra
+
 E-mail wolfsecurity@protonmail.com
+
 Facebook www.facebook.com/ConsuegraVictor
 
 # Instalation and dependencies
