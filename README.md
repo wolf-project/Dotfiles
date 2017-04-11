@@ -1,14 +1,22 @@
+<pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true">
+ _____   ____ _______ ______ _____ _      ______  _____ 
+|  __ \ / __ \__   __|  ____|_   _| |    |  ____|/ ____|
+| |  | | |  | | | |  | |__    | | | |    | |__  | (___  
+| |  | | |  | | | |  |  __|   | | | |    |  __|  \___ \ 
+| |__| | |__| | | |  | |     _| |_| |____| |____ ____) |
+|_____/ \____/  |_|  |_|    |_____|______|______|_____/ 
+
 # My personal Dotfiles
 
 In this repository have files that I use to configure the i3 Window Manager.
 
-Have config file to status bar too.
+Have config file to i3blocks too.
 
 Author
-	Victor Consuegra  wolfsecurity@protonmail.com
+	<strong>Victor Consuegra</strong>  wolfsecurity@protonmail.com
    	Facebook www.facebook.com/ConsuegraVictor
 
-# Download with Wget
+# Instalation and dependecy 
 
 	$ wget https://github.com/wolf-project/Dotfiles.git
 	$ unzip Dotfiles-master.zip
@@ -19,7 +27,7 @@ Author
 
 You just need install the complete group of i3wm, like i3lock, i3bar, i3status, dmenu...
 
-    Arch Linux: # pacman -S i3 dmenu i3lock i3bar i3status
+    Arch Linux: $ pacman -S i3 dmenu i3lock i3bar i3status
 
 # Got a problem ? 
 
