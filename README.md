@@ -4,14 +4,17 @@
 | |  | | |  | | | |  | |__    | | | |    | |__  | (___  
 | |  | | |  | | | |  |  __|   | | | |    |  __|  \___ \ 
 | |__| | |__| | | |  | |     _| |_| |____| |____ ____) |
-|_____/ \____/  |_|  |_|    |_____|______|______|_____/ 
+|_____/ \____/  |_|  |_|    |_____|______|______|_____/ <\pre>
 
 # My Arch Linux Dotfiles
 
 ![I3][screenshot1]
-[screenshot1]:https://raw.githubusercontent.com/wolf-project/Dotfiles/master/screenshots/screenshootrefresh.png
 
-> For more [screenshots](https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
+[screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshootrefresh.png
+
+For more screenshots go to 
+
+[screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
 
 Author
 	<strong>Victor Consuegra</strong>  wolfsecurity@protonmail.com
