@@ -7,7 +7,7 @@
 
 # For more screenshots go to 
 
-[screenshots]:(https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
+https://github.com/wolf-project/Dotfiles/tree/master/screenshots
 
 # Instalation and dependencies
 
