@@ -10,9 +10,9 @@
 
 [screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots
 
-Author
-<strong>Victor Consuegra</strong>wolfsecurity@protonmail.com
-<strong>Facebook</strong> www.facebook.com/ConsuegraVictor
+Author Victor Consuegra
+E-mail wolfsecurity@protonmail.com
+Facebook www.facebook.com/ConsuegraVictor
 
 # Instalation and dependencies
 
