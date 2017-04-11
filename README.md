@@ -12,7 +12,7 @@
 
 [screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshootrefresh.png
 
-For more screenshots go to 
+## For more screenshots go to 
 
 [screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
 
@@ -25,7 +25,7 @@ Author
 <strong>pacman</strong> -S i3 i3blocks dmenu lm_sensors nitrogen
 <strong>yaourt</strong> -S ttf-inconsolata ttf-font-awesome ttf-dejavu terminus-font-ttf terminus-font lemonbar-git i3-gaps-git
 	
-	$ wget <https://github.com/wolf-project/Dotfiles.git>
+	$ wget https://github.com/wolf-project/Dotfiles.git
 	$ unzip Dotfiles-master.zip
 		Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 
@@ -33,5 +33,4 @@ Author
 # Got a problem ? 
 
 	Please, submit a issue !
-| ---------------------------------------------------- |
-[screenshot1]:(https://raw.githubusercontent.com/wolf-project/Dotfiles/master/screenshots/screenshootrefresh.png)
+
