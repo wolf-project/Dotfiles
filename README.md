@@ -32,6 +32,6 @@ Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 # Got a problem ? 
 
 	Please, submit a issue !
-	Author Victor Consuegra
-	E-mail wolfsecurity@protonmail.com
+	Author <b>Victor Consuegra</b>
+	E-mail <b>wolfsecurity@protonmail.com</b>
 	Facebook www.facebook.com/ConsuegraVictor
