@@ -7,13 +7,7 @@
 
 # For more screenshots go to 
 
-[screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots
-
-Author Victor Consuegra
-
-E-mail wolfsecurity@protonmail.com
-
-Facebook www.facebook.com/ConsuegraVictor
+[screenshots]:(https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
 
 # Instalation and dependencies
 
@@ -31,3 +25,6 @@ Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 # Got a problem ? 
 
 	Please, submit a issue !
+	Author Victor Consuegra
+	E-mail wolfsecurity@protonmail.com
+	Facebook www.facebook.com/ConsuegraVictor
