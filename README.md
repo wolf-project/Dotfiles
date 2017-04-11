@@ -6,28 +6,26 @@
 | |__| | |__| | | |  | |     _| |_| |____| |____ ____) |
 |_____/ \____/  |_|  |_|    |_____|______|______|_____/ 
 
-# My personal Dotfiles
+# My Arch Linux Dotfiles
 
-In this repository have files that I use to configure the i3 Window Manager.
+![I3][screenshot1]
+[screenshot1]:https://raw.githubusercontent.com/wolf-project/Dotfiles/master/screenshots/screenshootrefresh.png
 
-Have config file to i3blocks too.
+> For more [screenshots](https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
 
 Author
 	<strong>Victor Consuegra</strong>  wolfsecurity@protonmail.com
    	Facebook www.facebook.com/ConsuegraVictor
 
-# Instalation and dependecy 
+# Instalation and dependencies
 
-	$ wget https://github.com/wolf-project/Dotfiles.git
+<strong>pacman</strong> -S i3 i3blocks dmenu lm_sensors nitrogen
+<strong>yaourt</strong> -S ttf-inconsolata ttf-font-awesome ttf-dejavu terminus-font-ttf terminus-font lemonbar-git i3-gaps-git
+	
+	$ wget <https://github.com/wolf-project/Dotfiles.git>
 	$ unzip Dotfiles-master.zip
 		Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 
-
-# Dependency
-
-You just need install the complete group of i3wm, like i3lock, i3bar, i3status, dmenu...
-
-    Arch Linux: $ pacman -S i3 dmenu i3lock i3bar i3status
 
 # Got a problem ? 
 
