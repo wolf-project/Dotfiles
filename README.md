@@ -1,36 +1,38 @@
-<pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true">
- _____   ____ _______ ______ _____ _      ______  _____ 
-|  __ \ / __ \__   __|  ____|_   _| |    |  ____|/ ____|
-| |  | | |  | | | |  | |__    | | | |    | |__  | (___  
-| |  | | |  | | | |  |  __|   | | | |    |  __|  \___ \ 
-| |__| | |__| | | |  | |     _| |_| |____| |____ ____) |
-|_____/ \____/  |_|  |_|    |_____|______|______|_____/ <\pre>
-
-# My Arch Linux Dotfiles
+<pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true"> </pre>
+# My Arch Linux Dotfiles - i3WM + i3blocks
 
 ![I3][screenshot1]
+![I3][screenshot2]
+![I3][screenshot3]
+![I3][screenshot4]
 
 [screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshootrefresh.png
+[screenshot2]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks.png
+[screenshot3]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks2.png
+[screenshot4]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks2212524.png
 
-## For more screenshots go to 
 
-[screenshots]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots)
+# For more screenshots go to 
 
-Author
-	<strong>Victor Consuegra</strong>  wolfsecurity@protonmail.com
-   	Facebook www.facebook.com/ConsuegraVictor
+https://github.com/wolf-project/Dotfiles/tree/master/screenshots
 
 # Instalation and dependencies
 
-<strong>pacman</strong> -S i3 i3blocks dmenu lm_sensors nitrogen
-<strong>yaourt</strong> -S ttf-inconsolata ttf-font-awesome ttf-dejavu terminus-font-ttf terminus-font lemonbar-git i3-gaps-git
+pacman -S i3 i3blocks dmenu lm_sensors nitrogen
+
+yaourt -S ttf-inconsolata ttf-font-awesome ttf-dejavu terminus-font-ttf terminus-font lemonbar-git i3-gaps-git
 	
-	$ wget https://github.com/wolf-project/Dotfiles.git
-	$ unzip Dotfiles-master.zip
-		Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
+$ wget https://github.com/wolf-project/Dotfiles.git
+
+$ unzip Dotfiles-master.zip
+
+Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 
 
 # Got a problem ? 
 
 	Please, submit a issue !
+	Author Victor Consuegra
+	E-mail wolfsecurity@protonmail.com
+	Facebook www.facebook.com/ConsuegraVictor
 
