@@ -1,6 +1,5 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
+# Arquivo .bashrc do Parrot OS
+# se quiser deixar seu terminal igual, apenas copie e cole no seu arquivo /home/seu-usuario/.bashrc ou /root/.bashrc
 
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
