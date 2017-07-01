@@ -1,22 +1,26 @@
 #My i3 config 
-#Atualizado em 10/04/2017 11:44
+#Atualizado em 01/07/2017 20:09
 #Author Victor Consuegra
 
 #Set mod KEY, my key is ALT
 
 set $mod Mod1
 
-#Estilo de fonte das janelas e terminal 
+#Estilo de fonte das janelas 
 
 font pango:FantasqueSansMono-Regular.ttf 9
+
+# This font is widely installed, provides lots of unicode glyphs, right-to-left
+# text rendering and scalability on retina/hidpi displays (thanks to pango).
+#font pango:FantasqueSansMono-Regular.ttf 12
 
 #Esconder bordas nas janelas únicas
 
 hide_edge_borders true
 
-#Iniciar o xcompmgr
+# Executa o xrandr, divide a exibição em 2 monitores ( notebook + tela VGA )
 
-#exec xcompmgr -c -f -n 
+exec xrandr --output VGA1 --auto --output LVDS1 --auto --right-of VGA1
 
 #Configurar bordstyle
 
@@ -29,7 +33,7 @@ floating_modifier $mod
 
 # start a terminal
 
-bindsym $mod+Return exec termite
+bindsym $mod+Return exec lxterminal
 
 # kill focused window
 
@@ -172,7 +176,11 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# Configuração da barra de status, i3blocks. Observe o caminho das pastas
+# Iniciar o serviço de i3bar para mostrar informações do sistema,cpu,memória,hd,temperatura etc
+# ainda falta a configuração do i3blocks, por isso a linha 171 está anulada pelo #
+
+exec --no-startup-id nitrogen --restore
+exec --no-startup-id compton &
 
 bar {
     #status_command i3status
@@ -192,17 +200,12 @@ bar {
 }
  
 # Aplicações iniciadas junto do sistema 
+#########################################
 
-exec --no-startup-id nitrogen --restore
-exec --no-startup-id compton &
-
-# Terminal, tema das bordas etc
-
+# Theme colors
 #class                  border   backgr.  text  indicator
-
 client.focused          #7f8f9f #C0C0C0 #000000 #cad0c4
 client.focused_inactive #000000 #161616 #2D2D2D
 client.unfocused        #000000 #161616 #605e56
 client.urgent           #a5a5a5 #a5a5a5 #1E1E1E
 client.background       #161616
-
