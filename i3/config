@@ -1,5 +1,5 @@
 #My i3 config 
-#Atualizado em 01/07/2017 20:09
+#Atualizado em 24/11/2017 19:55
 #Author Victor Consuegra
 
 #Set mod KEY, my key is ALT
@@ -20,7 +20,7 @@ hide_edge_borders true
 
 # Executa o xrandr, divide a exibição em 2 monitores ( notebook + tela VGA )
 
-exec xrandr --output VGA1 --auto --output LVDS1 --auto --right-of VGA1
+#exec xrandr --output VGA1 --auto --output LVDS1 --auto --right-of VGA1
 
 #Configurar bordstyle
 
@@ -147,7 +147,7 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m ' Vocẽ apertou o atalho de 
 
 # Sistema de trava de segurança
 
-bindsym $mod+Shift+p exec i3lock
+bindsym $mod+Shift+p exec i3lock -i /home/wolf/wallpapers/logoofinal-wolf.png
 
 # Redimensionar janelas (you can also use the mouse for that)
 
