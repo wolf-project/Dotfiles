@@ -13,16 +13,23 @@ pacman -S i3 i3blocks dmenu lm_sensors nitrogen
 
 yaourt -S ttf-inconsolata ttf-font-awesome ttf-dejavu terminus-font-ttf terminus-font lemonbar-git i3-gaps-git
 	
-$ wget https://github.com/wolf-project/Dotfiles.git
+$ git clone git://github.com/tobi-wan-kenobi/bumblebee-status
 
-$ unzip Dotfiles-master.zip
+$ unzip bumblebee-status.zip
 
-Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
+# Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
 
+# Edit the i3 configuration on /home/your-user/.config/config or /root/.config/i3/config
+  
+  add this command on you i3 "config" 
+  
+  <strong>bar {
+	status_command = <path to bumblebee-status/bumblebee-status> -m <list of modules> -p <list of module parameters> -t <theme>
+	}</strong>
 
 # Got a problem ? 
 
 	Please, submit a issue.
-	Author Victor Consuegra
-	E-mail wolfsecurity@protonmail.com (Work only)
+	Author git://github.com/tobi-wan-kenobi/
+	E-mail wolfsecurity@protonmail.com
 	Facebook www.facebook.com/ConsuegraVictor
