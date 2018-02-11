@@ -6,15 +6,8 @@
 ![I3][screenshot3]
 ![I3][screenshot4]
 
-[screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshootrefresh.png
-[screenshot2]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks.png
-[screenshot3]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks2.png
-[screenshot4]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screenshot-i3wm-i3blocks2212524.png
-
-
-# For more screenshots go to 
-
-https://github.com/wolf-project/Dotfiles/tree/master/screenshots
+[screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screen1.png
+[screenshot2]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screen2.png
 
 # Instalation and dependencies
 
