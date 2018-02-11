@@ -1,10 +1,8 @@
 <pre id="taag_font_DeltaCorpsPriest1" style="float:left;" class="fig-ansi" contenteditable="true"> </pre>
-# My Arch Linux Dotfiles - i3WM + i3blocks
+# My Arch Linux Dotfiles - i3WM + Bumblebee_status
 
 ![I3][screenshot1]
 ![I3][screenshot2]
-![I3][screenshot3]
-![I3][screenshot4]
 
 [screenshot1]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screen1.png
 [screenshot2]:https://github.com/wolf-project/Dotfiles/blob/master/screenshots/screen2.png
