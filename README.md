@@ -17,9 +17,9 @@ $ git clone git://github.com/tobi-wan-kenobi/bumblebee-status
 
 $ unzip bumblebee-status.zip
 
-# Move to you directorie /home/your-user/.config/i3/  or /root/.config/i3/
+Move to you directorie <strong> /home/your-user/.config/i3/ </strong>  or <strong>/root/.config/i3/</strong>
 
-# Edit the i3 configuration on /home/your-user/.config/config or /root/.config/i3/config
+Edit the i3 configuration (config) on /home/your-user/.config/config or /root/.config/i3/config
   
   add this command on you i3 "config" 
   
@@ -30,6 +30,9 @@ $ unzip bumblebee-status.zip
 # Got a problem ? 
 
 	Please, submit a issue.
-	Author git://github.com/tobi-wan-kenobi/
 	E-mail wolfsecurity@protonmail.com
 	Facebook www.facebook.com/ConsuegraVictor
+	
+# Bumblebee_status - credits	
+	Bumblebee_status author git://github.com/tobi-wan-kenobi/
+	Check the code ! 
