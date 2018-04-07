@@ -23,7 +23,8 @@ Edit the i3 configuration (config) on /home/your-user/.config/config or /root/.c
   
   add this command on you i3 "config" 
   
-  <strong>bar {
+  <strong> bar {
+	
 	status_command = <path to bumblebee-status/bumblebee-status> -m <list of modules> -p <list of module parameters> -t <theme>
 	}</strong>
 
